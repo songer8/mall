@@ -1,0 +1,9 @@
+.bottom-wrapper{
+    position: relative;
+    .bottom-bar{
+        position: fixed;
+        bottom: 0px;
+        left: 0px;
+        display: flex;
+    }
+}
